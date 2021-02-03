@@ -1,9 +1,9 @@
-<?php 
+<!-- <?php 
 if(!isset($_POST["nama"])){
     header("Location: latihan1.php");
     exit;
 }
-?>
+?> -->
 
 <?php ?>
 <!DOCTYPE html>
